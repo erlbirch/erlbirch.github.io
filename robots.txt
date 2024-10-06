@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erlbirch.github.io/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/app/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/assets/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/css/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/data/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/includes/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/item/sitemap.html.gz
+Sitemap: https://erlbirch.github.io/src/sitemap.html.gz
